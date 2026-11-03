@@ -11,7 +11,7 @@
    ----------------------------------------------------- */
 const CONTACT = {
   email: "hwstudios8206@gmail.com",                         // e.g. "hello@yourdomain.com"
-  instagram: "hwstudios8206",             // e.g. "https://instagram.com/yourhandle"
+  instagram: "https://instagram.com/hwstudios8206",             // e.g. "https://instagram.com/yourhandle"
   whatsapp: "916301245365"      // digits only, e.g. "919876543210"
 };
  
